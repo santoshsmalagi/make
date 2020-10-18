@@ -1,2 +1,2 @@
 # make
-A tutorial on Gnu-make and collection of some genric Makefiles.
+A collection of tutorials, tips and tricks on the GNU Make utility. 
